@@ -1,0 +1,12 @@
+C:\Users\PC\Desktop\C# .NET\Navegador VB\bin\Debug\Navegador VB.exe.config
+C:\Users\PC\Desktop\C# .NET\Navegador VB\bin\Debug\Navegador VB.exe
+C:\Users\PC\Desktop\C# .NET\Navegador VB\bin\Debug\Navegador VB.pdb
+C:\Users\PC\Desktop\C# .NET\Navegador VB\bin\Debug\Navegador VB.xml
+C:\Users\PC\Desktop\C# .NET\Navegador VB\obj\Debug\Navegador VB.vbprojAssemblyReference.cache
+C:\Users\PC\Desktop\C# .NET\Navegador VB\obj\Debug\Navegador_VB.Form1.resources
+C:\Users\PC\Desktop\C# .NET\Navegador VB\obj\Debug\Navegador_VB.Resources.resources
+C:\Users\PC\Desktop\C# .NET\Navegador VB\obj\Debug\Navegador VB.vbproj.GenerateResource.cache
+C:\Users\PC\Desktop\C# .NET\Navegador VB\obj\Debug\Navegador VB.vbproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\C# .NET\Navegador VB\obj\Debug\Navegador VB.exe
+C:\Users\PC\Desktop\C# .NET\Navegador VB\obj\Debug\Navegador VB.xml
+C:\Users\PC\Desktop\C# .NET\Navegador VB\obj\Debug\Navegador VB.pdb
