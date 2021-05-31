@@ -1,0 +1,24 @@
+C:\Users\PC\Desktop\C# .NET\Desafío Semanal 2\bin\Debug\Desafío Semanal 2.exe.config
+C:\Users\PC\Desktop\C# .NET\Desafío Semanal 2\bin\Debug\Desafío Semanal 2.exe
+C:\Users\PC\Desktop\C# .NET\Desafío Semanal 2\bin\Debug\Desafío Semanal 2.pdb
+C:\Users\PC\Desktop\C# .NET\Desafío Semanal 2\bin\Debug\Desafío Semanal 2.xml
+C:\Users\PC\Desktop\C# .NET\Desafío Semanal 2\obj\Debug\Desafío Semanal 2.vbprojAssemblyReference.cache
+C:\Users\PC\Desktop\C# .NET\Desafío Semanal 2\obj\Debug\Desafío_Semanal_2.Resources.resources
+C:\Users\PC\Desktop\C# .NET\Desafío Semanal 2\obj\Debug\Desafío Semanal 2.vbproj.GenerateResource.cache
+C:\Users\PC\Desktop\C# .NET\Desafío Semanal 2\obj\Debug\Desafío Semanal 2.vbproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\C# .NET\Desafío Semanal 2\obj\Debug\Desafío Semanal 2.exe
+C:\Users\PC\Desktop\C# .NET\Desafío Semanal 2\obj\Debug\Desafío Semanal 2.xml
+C:\Users\PC\Desktop\C# .NET\Desafío Semanal 2\obj\Debug\Desafío Semanal 2.pdb
+C:\Users\PC\Desktop\C# .NET\Desafío Semanal 2\obj\Debug\Desafío_Semanal_2.Inicio.resources
+C:\Users\PC\Desktop\C# .NET\Desafío Semanal 2\obj\Debug\Desafío_Semanal_2.Pregunta1.resources
+C:\Users\PC\Desktop\C# .NET\Desafío Semanal 2\obj\Debug\Desafío_Semanal_2.Resultado.resources
+C:\Users\PC\Desktop\C# .NET\Desafío Semanal 2\obj\Debug\Desafío_Semanal_2.Pregunta2.resources
+C:\Users\PC\Desktop\C# .NET\Desafío Semanal 2\obj\Debug\Desafío_Semanal_2.Pregunta3.resources
+C:\Users\PC\Desktop\C# .NET\Desafío Semanal 2\obj\Debug\Desafío_Semanal_2.Pregunta4.resources
+C:\Users\PC\Desktop\C# .NET\Desafío Semanal 2\obj\Debug\Desafío_Semanal_2.Ganaste.resources
+C:\Users\PC\Desktop\C# .NET\Desafío Semanal 2\obj\Debug\Desafío_Semanal_2.Pregunta10.resources
+C:\Users\PC\Desktop\C# .NET\Desafío Semanal 2\obj\Debug\Desafío_Semanal_2.Pregunta5.resources
+C:\Users\PC\Desktop\C# .NET\Desafío Semanal 2\obj\Debug\Desafío_Semanal_2.Pregunta6.resources
+C:\Users\PC\Desktop\C# .NET\Desafío Semanal 2\obj\Debug\Desafío_Semanal_2.Pregunta7.resources
+C:\Users\PC\Desktop\C# .NET\Desafío Semanal 2\obj\Debug\Desafío_Semanal_2.Pregunta8.resources
+C:\Users\PC\Desktop\C# .NET\Desafío Semanal 2\obj\Debug\Desafío_Semanal_2.Pregunta9.resources
