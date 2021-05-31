@@ -1,0 +1,30 @@
+C:\Users\PC\source\repos\Formularios y Menú VB\bin\Debug\Formularios y Menú VB.exe.config
+C:\Users\PC\source\repos\Formularios y Menú VB\bin\Debug\Formularios y Menú VB.exe
+C:\Users\PC\source\repos\Formularios y Menú VB\bin\Debug\Formularios y Menú VB.pdb
+C:\Users\PC\source\repos\Formularios y Menú VB\bin\Debug\Formularios y Menú VB.xml
+C:\Users\PC\source\repos\Formularios y Menú VB\obj\Debug\Formularios y Menú VB.vbprojAssemblyReference.cache
+C:\Users\PC\source\repos\Formularios y Menú VB\obj\Debug\Formularios_y_Menú_VB.Form1.resources
+C:\Users\PC\source\repos\Formularios y Menú VB\obj\Debug\Formularios_y_Menú_VB.Resources.resources
+C:\Users\PC\source\repos\Formularios y Menú VB\obj\Debug\Formularios y Menú VB.vbproj.GenerateResource.cache
+C:\Users\PC\source\repos\Formularios y Menú VB\obj\Debug\Formularios y Menú VB.vbproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Formularios y Menú VB\obj\Debug\Formularios y Menú VB.exe
+C:\Users\PC\source\repos\Formularios y Menú VB\obj\Debug\Formularios y Menú VB.xml
+C:\Users\PC\source\repos\Formularios y Menú VB\obj\Debug\Formularios y Menú VB.pdb
+C:\Users\PC\source\repos\Formularios y Menú VB\obj\Debug\Formularios_y_Menú_VB.Clientes.resources
+C:\Users\PC\source\repos\Formularios y Menú VB\obj\Debug\Formularios_y_Menú_VB.Proveedores.resources
+C:\Users\PC\source\repos\Formularios y Menú VB\obj\Debug\Formularios_y_Menú_VB.Listados.resources
+C:\Users\PC\Desktop\C# .NET\Formularios y Menú VB\bin\Debug\Formularios y Menú VB.exe.config
+C:\Users\PC\Desktop\C# .NET\Formularios y Menú VB\bin\Debug\Formularios y Menú VB.exe
+C:\Users\PC\Desktop\C# .NET\Formularios y Menú VB\bin\Debug\Formularios y Menú VB.pdb
+C:\Users\PC\Desktop\C# .NET\Formularios y Menú VB\bin\Debug\Formularios y Menú VB.xml
+C:\Users\PC\Desktop\C# .NET\Formularios y Menú VB\obj\Debug\Formularios y Menú VB.vbprojAssemblyReference.cache
+C:\Users\PC\Desktop\C# .NET\Formularios y Menú VB\obj\Debug\Formularios_y_Menú_VB.Clientes.resources
+C:\Users\PC\Desktop\C# .NET\Formularios y Menú VB\obj\Debug\Formularios_y_Menú_VB.Form1.resources
+C:\Users\PC\Desktop\C# .NET\Formularios y Menú VB\obj\Debug\Formularios_y_Menú_VB.Listados.resources
+C:\Users\PC\Desktop\C# .NET\Formularios y Menú VB\obj\Debug\Formularios_y_Menú_VB.Resources.resources
+C:\Users\PC\Desktop\C# .NET\Formularios y Menú VB\obj\Debug\Formularios_y_Menú_VB.Proveedores.resources
+C:\Users\PC\Desktop\C# .NET\Formularios y Menú VB\obj\Debug\Formularios y Menú VB.vbproj.GenerateResource.cache
+C:\Users\PC\Desktop\C# .NET\Formularios y Menú VB\obj\Debug\Formularios y Menú VB.vbproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\C# .NET\Formularios y Menú VB\obj\Debug\Formularios y Menú VB.exe
+C:\Users\PC\Desktop\C# .NET\Formularios y Menú VB\obj\Debug\Formularios y Menú VB.xml
+C:\Users\PC\Desktop\C# .NET\Formularios y Menú VB\obj\Debug\Formularios y Menú VB.pdb
