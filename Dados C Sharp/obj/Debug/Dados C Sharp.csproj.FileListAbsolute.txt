@@ -1,0 +1,11 @@
+C:\Users\PC\Desktop\C# .NET\Dados C Sharp\bin\Debug\Dados C Sharp.exe.config
+C:\Users\PC\Desktop\C# .NET\Dados C Sharp\bin\Debug\Dados C Sharp.exe
+C:\Users\PC\Desktop\C# .NET\Dados C Sharp\bin\Debug\Dados C Sharp.pdb
+C:\Users\PC\Desktop\C# .NET\Dados C Sharp\obj\Debug\Dados C Sharp.csprojAssemblyReference.cache
+C:\Users\PC\Desktop\C# .NET\Dados C Sharp\obj\Debug\Dados_C_Sharp.Form1.resources
+C:\Users\PC\Desktop\C# .NET\Dados C Sharp\obj\Debug\Dados_C_Sharp.Properties.Resources.resources
+C:\Users\PC\Desktop\C# .NET\Dados C Sharp\obj\Debug\Dados C Sharp.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\C# .NET\Dados C Sharp\obj\Debug\Dados C Sharp.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\C# .NET\Dados C Sharp\obj\Debug\Dados C Sharp.exe
+C:\Users\PC\Desktop\C# .NET\Dados C Sharp\obj\Debug\Dados C Sharp.pdb
+C:\Users\PC\Desktop\C# .NET\Dados C Sharp\obj\Debug\Dados_C_Sharp.Juego_Completado.resources
