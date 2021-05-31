@@ -1,0 +1,12 @@
+C:\Users\PC\Desktop\C# .NET\Formularios y Menú C Sharp\bin\Debug\Formulaarios y Menú C Sharp.exe.config
+C:\Users\PC\Desktop\C# .NET\Formularios y Menú C Sharp\bin\Debug\Formulaarios y Menú C Sharp.exe
+C:\Users\PC\Desktop\C# .NET\Formularios y Menú C Sharp\bin\Debug\Formulaarios y Menú C Sharp.pdb
+C:\Users\PC\Desktop\C# .NET\Formularios y Menú C Sharp\obj\Debug\Formulaarios_y_Menú_C_Sharp.Clientes.resources
+C:\Users\PC\Desktop\C# .NET\Formularios y Menú C Sharp\obj\Debug\Formulaarios_y_Menú_C_Sharp.Form1.resources
+C:\Users\PC\Desktop\C# .NET\Formularios y Menú C Sharp\obj\Debug\Formulaarios_y_Menú_C_Sharp.Listados.resources
+C:\Users\PC\Desktop\C# .NET\Formularios y Menú C Sharp\obj\Debug\Formulaarios_y_Menú_C_Sharp.Properties.Resources.resources
+C:\Users\PC\Desktop\C# .NET\Formularios y Menú C Sharp\obj\Debug\Formulaarios_y_Menú_C_Sharp.Proveedores.resources
+C:\Users\PC\Desktop\C# .NET\Formularios y Menú C Sharp\obj\Debug\Formularios y Menú C Sharp.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\C# .NET\Formularios y Menú C Sharp\obj\Debug\Formularios y Menú C Sharp.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\C# .NET\Formularios y Menú C Sharp\obj\Debug\Formulaarios y Menú C Sharp.exe
+C:\Users\PC\Desktop\C# .NET\Formularios y Menú C Sharp\obj\Debug\Formulaarios y Menú C Sharp.pdb
