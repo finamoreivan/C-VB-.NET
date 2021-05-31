@@ -1,0 +1,20 @@
+C:\Users\PC\Desktop\C# .NET\Desafío Semanal 1\bin\Debug\Desafío Semanal 1.exe.config
+C:\Users\PC\Desktop\C# .NET\Desafío Semanal 1\bin\Debug\Desafío Semanal 1.exe
+C:\Users\PC\Desktop\C# .NET\Desafío Semanal 1\bin\Debug\Desafío Semanal 1.pdb
+C:\Users\PC\Desktop\C# .NET\Desafío Semanal 1\bin\Debug\Desafío Semanal 1.xml
+C:\Users\PC\Desktop\C# .NET\Desafío Semanal 1\obj\Debug\Desafío Semanal 1.vbprojAssemblyReference.cache
+C:\Users\PC\Desktop\C# .NET\Desafío Semanal 1\obj\Debug\Desafío_Semanal_1.Resources.resources
+C:\Users\PC\Desktop\C# .NET\Desafío Semanal 1\obj\Debug\Desafío_Semanal_1.Presentación.resources
+C:\Users\PC\Desktop\C# .NET\Desafío Semanal 1\obj\Debug\Desafío Semanal 1.vbproj.GenerateResource.cache
+C:\Users\PC\Desktop\C# .NET\Desafío Semanal 1\obj\Debug\Desafío Semanal 1.vbproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\C# .NET\Desafío Semanal 1\obj\Debug\Desafío Semanal 1.exe
+C:\Users\PC\Desktop\C# .NET\Desafío Semanal 1\obj\Debug\Desafío Semanal 1.xml
+C:\Users\PC\Desktop\C# .NET\Desafío Semanal 1\obj\Debug\Desafío Semanal 1.pdb
+C:\Users\PC\Desktop\C# .NET\Desafío Semanal 1\obj\Debug\Desafío_Semanal_1.Perdiste.resources
+C:\Users\PC\Desktop\C# .NET\Desafío Semanal 1\obj\Debug\Desafío_Semanal_1.Demonio1.resources
+C:\Users\PC\Desktop\C# .NET\Desafío Semanal 1\obj\Debug\Desafío_Semanal_1.Dragon1.resources
+C:\Users\PC\Desktop\C# .NET\Desafío Semanal 1\obj\Debug\Desafío_Semanal_1.Inicio.resources
+C:\Users\PC\Desktop\C# .NET\Desafío Semanal 1\obj\Debug\Desafío_Semanal_1.Dragon2.resources
+C:\Users\PC\Desktop\C# .NET\Desafío Semanal 1\obj\Debug\Desafío_Semanal_1.Demonio2.resources
+C:\Users\PC\Desktop\C# .NET\Desafío Semanal 1\obj\Debug\Desafío_Semanal_1.Demonio3.resources
+C:\Users\PC\Desktop\C# .NET\Desafío Semanal 1\obj\Debug\Desafío_Semanal_1.Dragon3.resources
